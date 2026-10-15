@@ -1,25 +1,30 @@
+
+# Zhou Jingwen
+
+CS Undergraduate @ XJTU → Incoming SE Ph.D. @ BUAA
+
+## About
+
+My current research interests include:
+
+- **Graph Foundation Models**
+- **Multi-Agent Systems**
+- **Trustworthy AI**
+
+## Connect
+
+- 🌐 [Personal Website](https://zjw-buaa.github.io/)
+- 📕 [Xiaohongshu](https://www.xiaohongshu.com/)
+- 📝 [CSDN](https://blog.csdn.net/)
+
+---
+
 <p align="center">
-  <img src="https://tenor.com/bVTTB.gif" width="300" alt="旋转的草莓蛋糕">
+  <i>Stay curious, chase the stars, and enjoy the journey. ✨</i>
 </p>
 
-<h1 align="center">✨ 你好呀，我是癸 ✨</h1>
-
-
-
-
-## ✨ 生命中的小确幸
-
-> "每一天都是新的冒险！保持好奇，像星星一样闪闪发光 ✨" 
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif"
+       width="260"
+       alt="A little bit of happiness">
 </p>
-
-
-## ✨个人学术主页
-
-https://zjw-buaa.github.io/
-
-
-
