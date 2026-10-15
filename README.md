@@ -1,11 +1,11 @@
 
 # Zhou Jingwen
 
-CS Undergraduate @ XJTU → Incoming SE Ph.D. @ BUAA
+**CS B.S. @ XJTU →  SE Ph.D. @ BUAA**
 
 ## About
 
-My current research interests include:
+**My current research interests include:**
 
 - **Graph Foundation Models**
 - **Multi-Agent Systems**
@@ -13,9 +13,21 @@ My current research interests include:
 
 ## Connect
 
-- 🌐 [Personal Website](https://zjw-buaa.github.io/)
-- 📕 [Xiaohongshu](https://www.xiaohongshu.com/)
-- 📝 [CSDN](https://blog.csdn.net/)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" width="18" height="18" align="absmiddle" alt="">
+  &nbsp; <a href="https://zjw-buaa.github.io/">Home</a>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/book-open.svg" width="18" height="18" align="absmiddle" alt="">
+  &nbsp; <a href="https://www.xiaohongshu.com/user/profile/64bd492b000000001403c8e2">Red Book</a>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/file-text.svg" width="18" height="18" align="absmiddle" alt="">
+  &nbsp; <a href="https://blog.csdn.net/2401_84861017">CSDN</a>
+</p>
 
 ---
 
