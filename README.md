@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <i>Stay curious, chase the stars, and enjoy the journey. ✨</i>
+  <i>Stay curious. Keep exploring. Let life surprise you. ✨</i>
 </p>
 
 <p align="center">
